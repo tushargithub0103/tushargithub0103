@@ -52,7 +52,9 @@ Data Analyst | SQL · Power BI · Python | Turning Data Into Business Decisions
 ## 🌐 Connect With Me
 
 🌍 **Portfolio:** https://tushargithub0103.github.io/MyDataAnalystPortfolio/
+<br>
 💼 **LinkedIn:** https://linkedin.com/in/tusharmore132
+<br>
 📧 **Email:** tusharmore1302@gmail.com
 
 ---
