@@ -42,14 +42,10 @@ Data Analyst | SQL · Power BI · Python | Turning Data Into Business Decisions
 
 ## 🚀 Featured Projects
 
-| Project | Tools | Outcome | Link |
-|---|---|---|---|
-| Telecom Churn Analysis | SQL, Power BI | Identified key churn drivers from supply chain/telecom data | *add link* |
-| Customer Shopping Behavior Analysis | Python, Pandas | Segmented customers by purchase pattern to inform targeting | *add link* |
-| Interactive Power BI Dashboard | Power BI, DAX | Live published dashboard tracking [metric] | *add link* |
-| SQL Business Case Studies | SQL (MySQL/Postgres) | Solved N real-world business questions with query-based solutions | *add link* |
-
-*(Replace placeholders with real repo/dashboard links as each project ships — an empty row is worse than no row.)*
+- 🛍️ **Customer Shopping Behavior Analysis** — Python & Pandas-based segmentation to uncover purchase patterns
+- 📊 **Interactive Power BI Dashboards** — Business-ready dashboards with DAX-driven KPIs
+- 📈 **SQL Business Case Studies** — Real-world business problems solved through query-based analysis
+- 🎯 **Telecom Supply Chain Insights** — Analysis drawing on enterprise telecom domain experience from Wipro
 
 ---
 
