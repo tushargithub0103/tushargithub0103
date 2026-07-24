@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Tushar More</h1>
+
 <h3 align="center">
-Data Analyst | SQL · Power BI · Python | Turning Data Into Business Decisions
+Data Analyst • SQL • Power BI • Python • Turning Data into Business Insights
 </h3>
 
 <p align="center">
 <a href="https://github.com/tushargithub0103">
 <img src="https://komarev.com/ghpvc/?username=tushargithub0103&label=Profile%20Views&color=0e75b6&style=flat" />
 </a>
+
 <a href="https://github.com/tushargithub0103?tab=followers">
-<img src="https://img.shields.io/github/followers/tushargithub0103?style=flat&color=blue" />
+<img src="https://img.shields.io/github/followers/tushargithub0103?label=Followers&style=flat&color=blue" />
 </a>
 </p>
 
@@ -16,18 +18,17 @@ Data Analyst | SQL · Power BI · Python | Turning Data Into Business Decisions
 
 ## 👨‍💻 About Me
 
-- 📊 Data Analyst transitioning from enterprise operations to analytics — ex-Wipro (UK Government Telecom Supply Chain account)
-- 🧠 Building end-to-end DA skills: SQL, Power BI/DAX, Python, Advanced Excel — via the Codebasics Data Analytics & AI Bootcamp
-- 🎨 Bring a graphic design & visual storytelling background to every dashboard — most analysts can't design, I can
-- 📍 Based in Bangalore, India
+- 📊 Data Analyst with experience in **MIS Reporting, KPI Analysis & Business Intelligence**
+- 💼 Former Associate at **Wipro** (UK Government Telecom Supply Chain Project)
+- 🚀 Building end-to-end analytics solutions using **SQL, Python, Power BI & Excel**
+- 🎨 Passionate about **Data Visualization, Dashboard Design & Data Storytelling**
+- 📍 Bangalore, India
 
 ---
 
-## 🛠️ Core Skills
+## 🛠️ Tech Stack
 
-**Analytics:** SQL · Power BI (DAX) · Python (Pandas, NumPy) · Advanced Excel · MySQL · PostgreSQL
-**Design & Storytelling:** Figma · Canva · Data Visualization · Dashboard UX
-**Currently learning:** Advanced DAX, Marketing Analytics, PL-300 prep
+### 📊 Analytics
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -35,28 +36,67 @@ Data Analyst | SQL · Power BI · Python | Turning Data Into Business Decisions
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🎨 Design
+
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+### 🤖 AI Tools
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🛍️ **Customer Shopping Behavior Analysis** — Python & Pandas-based segmentation to uncover purchase patterns
-- 📊 **Interactive Power BI Dashboards** — Business-ready dashboards with DAX-driven KPIs
-- 📈 **SQL Business Case Studies** — Real-world business problems solved through query-based analysis
-- 🎯 **Telecom Supply Chain Insights** — Analysis drawing on enterprise telecom domain experience from Wipro
+- 🛍️ **Customer Shopping Behavior Analysis** — Customer segmentation & revenue insights using Python, SQL and Power BI.
+- 📊 **Interactive Power BI Dashboards** — KPI dashboards with DAX, data modeling and business reporting.
+- 😊 **Sentiment Analysis** — Machine Learning project using Python, NLTK & Scikit-learn.
+- 🗄️ **SQL Business Case Studies** — Real-world SQL queries solving business problems.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tushargithub0103&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushargithub0103&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=tushargithub0103&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-🌍 **Portfolio:** https://tushargithub0103.github.io/MyDataAnalystPortfolio/
-<br>
-💼 **LinkedIn:** https://linkedin.com/in/tusharmore132
-<br>
-📧 **Email:** tusharmore1302@gmail.com
+🌍 **Portfolio**  
+**https://tushargithub0103.github.io/MyDataAnalystPortfolio/**
+
+💼 **LinkedIn**  
+**https://linkedin.com/in/tusharmore132**
+
+📧 **Email**  
+**tusharmore1302@gmail.com**
 
 ---
 
-> **"Turning data into decisions."** 📊
+<p align="center">
+
+### 💡 *Turning data into clear business decisions.*
+
+⭐ Thanks for visiting my profile!
+
+</p>
