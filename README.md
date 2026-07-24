@@ -4,16 +4,6 @@
 Data Analyst • SQL • Power BI • Python • Turning Data into Business Insights
 </h3>
 
-<p align="center">
-<a href="https://github.com/tushargithub0103">
-<img src="https://komarev.com/ghpvc/?username=tushargithub0103&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
-
-<a href="https://github.com/tushargithub0103?tab=followers">
-<img src="https://img.shields.io/github/followers/tushargithub0103?label=Followers&style=flat&color=blue" />
-</a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
