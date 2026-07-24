@@ -1,127 +1,195 @@
-# Hi, I'm Tushar More 👋
+<h1 align="center">Hi 👋, I'm Tushar More</h1>
 
 <h3 align="center">
-Data Analyst • Business Intelligence • Data Storytelling • Dashboard Design
+Data Analyst • Business Intelligence • Data Visualization • Dashboard Design
 </h3>
 
 <p align="center">
-Turning data into insights that drive better business decisions.
+Transforming raw data into meaningful business insights through analytics, storytelling, and thoughtful dashboard design.
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science graduate with professional experience supporting operations on a UK Telecom project at Wipro.
+I'm a Data Analyst passionate about solving business problems using data.
 
-While working with operational data and business processes, I became fascinated by identifying patterns, measuring performance, and understanding why problems occur—not just solving them. That curiosity led me to pursue Data Analytics.
+My journey started in IT Operations at **Wipro**, where working with operational reports, KPIs, ServiceNow incidents, and stakeholder reporting sparked my curiosity about understanding *why* problems happen—not just resolving them.
 
-Today, I'm focused on building real-world analytics projects that combine business thinking, data analysis, and clear visual storytelling.
+Today, I focus on transforming complex datasets into actionable insights using SQL, Python, Excel, and Power BI while creating dashboards that help businesses make better decisions.
 
----
-
-## 🎯 What I'm Focused On
-
-- 📊 Building end-to-end Data Analytics projects
-- 📈 Designing interactive Power BI dashboards
-- 🗄️ Writing efficient SQL queries
-- 🐍 Analyzing data with Python
-- 📉 Creating meaningful business insights
-- 🎨 Designing clean, user-friendly data visualizations
-- 🤖 Exploring AI tools for modern analytics
+- 📊 Data Analytics & Business Intelligence
+- 📈 KPI Reporting & Performance Analysis
+- 📉 Dashboard Design & Data Visualization
+- 🧹 Data Cleaning & Transformation
+- 🤖 AI-assisted Analytics
+- 🎯 Always learning something new every day
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Data Analytics
+### 📊 Analytics
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
 
 - Microsoft Excel
-- SQL (MySQL)
-- Python
+- SQL (MySQL & PostgreSQL)
+- Python (Pandas, NumPy, Matplotlib)
 - Power BI
+- Power Query
+- DAX
 - Statistics
-- Data Cleaning
 - Data Modeling
-- Dashboard Design
-- KPI Reporting
+- ETL
+- Exploratory Data Analysis (EDA)
 
-### Design
+---
 
-- Figma
-- Canva
+### 🎨 Design
+
+- Dashboard UI/UX
 - Data Storytelling
 - Information Design
-- Dashboard UI/UX
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+- Canva
+- Figma
 
 ---
 
-## 📚 Currently Learning
+### 🤖 AI Tools
+
+- ChatGPT
+- Claude
+- GitHub Copilot
+- Google Gemini
+- Gamma
+- Napkin AI
+
+---
+
+# 🌱 Currently Learning
 
 - Advanced SQL
-- Python for Data Analytics
-- Advanced Power BI (DAX & Data Modeling)
-- Business Analytics
+- Advanced Power BI (DAX)
 - Marketing Analytics
-- AI for Data Analysts
+- Statistical Analysis
+- Machine Learning Fundamentals
+- AI for Data Analytics
 
 ---
 
-## 📂 Featured Projects
+# 🚀 Featured Projects
 
-📊 Sales Analytics Dashboard
+### 🛍 Customer Shopping Behavior Analysis
 
-📈 Customer Churn Analysis
+- Python
+- SQL
+- Power BI
+- Excel
 
-📦 Supply Chain Analytics
+✔ Cleaned & transformed 3,900+ retail records
 
-💰 Financial Dashboard
+✔ Built interactive Power BI dashboard
 
-🛒 E-Commerce Analytics
+✔ Performed customer segmentation
 
-📣 Marketing Performance Dashboard
-
-*(More projects coming soon.)*
-
----
-
-## 📊 GitHub Statistics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=tushargithub0103&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tushargithub0103&theme=tokyonight&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tushargithub0103&layout=compact&theme=tokyonight&hide_border=true)
+✔ Revenue trend analysis
 
 ---
 
-## 💡 My Philosophy
+### 😊 Sentiment Analysis
 
-> Good analysts don't just build dashboards.
->
-> They understand the business, ask better questions, and transform data into decisions.
+- Python
+- Scikit-Learn
+- NLTK
 
----
+✔ Classified 5,000+ customer reviews
 
-## 🌐 Connect With Me
+✔ Achieved 82% model accuracy
 
-💼 LinkedIn
-www.linkedin.com/in/tusharmore132
-
-🌍 Portfolio
-https://tusharcmore132.netlify.app
-
-📧 Email
-your-email@example.com
+✔ NLP & Machine Learning
 
 ---
 
-### Thanks for visiting! ⭐
-If you enjoy my work, consider starring my repositories.
+### 📊 More Projects Coming Soon...
+
+- HR Analytics
+- Supply Chain Analytics
+- Marketing Dashboard
+- Sales Dashboard
+- Financial Analytics
+- Business KPI Dashboard
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tushargithub0103&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushargithub0103&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=tushargithub0103&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Tushar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tushargithub0103&theme=tokyo-night)](https://github.com/tushargithub0103)
+
+---
+
+# 💡 What I Enjoy
+
+- 📊 Exploring Business Data
+- 📈 Finding Hidden Trends
+- 📉 Designing Interactive Dashboards
+- 🎨 Creating Clean Visualizations
+- 🤖 Leveraging AI for Analytics
+- 🚀 Solving Real Business Problems
+
+---
+
+# 🌐 Connect With Me
+
+🌍 **Portfolio**
+
+https://tushargithub0103.github.io/MyDataAnalystPortfolio/
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/tusharmore132
+
+📧 **Email**
+
+tusharmore1302@gmail.com
+
+---
+
+# 💭 Quote I Live By
+
+> **"Without data, you're just another person with an opinion."**  
+> — W. Edwards Deming
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider starring my repositories!
+
+Thanks for visiting my profile ❤️
+
+</p>
