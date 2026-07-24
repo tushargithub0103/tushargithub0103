@@ -65,18 +65,6 @@ Turning raw data into actionable business insights through analytics, storytelli
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushargithub0103&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tushargithub0103&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 🌍 **Portfolio**  
